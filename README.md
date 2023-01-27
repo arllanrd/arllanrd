@@ -10,3 +10,5 @@
   <img align="Center" alt="Gaspar-React" height="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="Center" alt="Gaspar-Ts" height="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
+
+![snake gif](https://github.com/arllanrd/arllanrd/blob/output/github-contribution-grid-snake.svg)
